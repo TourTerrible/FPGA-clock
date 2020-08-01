@@ -20,7 +20,7 @@ so Using these clock, we implemented counter with following constrains:
 * Minute Unit-digit with clock of frequency 1/60 Hz, that count from 0-9
 * Minute Tenth-digit with clock of frequency 1/600 Hz, that count from 0-5
 * Hour Unit-digit with clock of frequency 1/3600 Hz, that count from 0-3
-* Hour Tenth-digit with clock of frequency 1/3600 Hz, that count from 0-2
+* Hour Tenth-digit with clock of frequency 1/36000 Hz, that count from 0-2
 
 For displaying these counter as decimal digits, we used 7 segment displays and implemented logic accordingly.
 <img src="https://github.com/ahad18abd/FPGA-clock/blob/master/images/maxresdefault.jpg" width="50%" height="50%" >
