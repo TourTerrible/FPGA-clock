@@ -14,7 +14,7 @@ setting time.
 - Verilog
 
 ### Concept
-To design a full digital clock first we designed a clock of different frequencies for minutes and hours.
+To design a full digital clock first we designed clocks of different frequencies for minutes and hours.
 and maxing time clock can show is 23:59
 so Using these clock, we implemented counter with following constrains:
 * Minute Unit-digit with clock of frequency 1/60 Hz, that count from 0-9
